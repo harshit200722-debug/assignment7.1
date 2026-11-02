@@ -1,11 +1,12 @@
-name=Assignment-1.1.md
-Assignment 1.1 — How a Website Works[cite: 1]
-Task: Explain in a single paragraph how a website opens on the screen after typing a URL.[cite: 1]
-What to do:
+name=Assignment-7.1.md
+Assignment 7.1 — Responsive Navigation Bar[cite: 31]
+What to build: A horizontal navigation bar using Flexbox[cite: 31].
+Steps:
 
-1. Understand the basic roles of browser, client, server, and database.[cite: 1]
-2. Write the meanings of HTTP and HTTPS.[cite: 1]
-3. Explain the request-response cycle.[cite: 1]
-4. Write the differences between a static and a dynamic website.[cite: 1]
-5. Open Chrome DevTools and inspect requests in the Network tab of any website.[cite: 1]
-Submission: An explanatory paragraph and a screenshot of the Network tab.[cite: 1]
+1. Create a header containing a logo and navigation links[cite: 31].
+2. Apply `display: flex` to the container[cite: 31].
+3. Set spacing between items using `justify-content`[cite: 31].
+4. Align vertically using `align-items`[cite: 31].
+5. Style the navigation links and button[cite: 31].
+6. Inspect the layout by changing the browser width[cite: 31].
+Submission: Working navigation bar and CSS code[cite: 31].
